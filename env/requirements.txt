@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+scipy
+prophet
+statsmodels
+openpyxl
+xlrd
+python-dotenv
+plotly
