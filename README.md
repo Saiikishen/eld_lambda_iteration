@@ -16,7 +16,7 @@ This project implements the Lambda Iteration Method, a numerical technique for o
 ## Prerequisites
 
 - Python 3.x
-- NumPy library
+- Libraries specified in requirements.txt
 
 ## Installation
 
